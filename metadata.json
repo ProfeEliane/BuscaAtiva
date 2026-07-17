@@ -1,0 +1,6 @@
+{
+  "name": "Busca Ativa — WhatsApp",
+  "description": "Registre faltas por turma e gere mensagens personalizadas de busca ativa prontas para enviar no WhatsApp com um clique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
